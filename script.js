@@ -66,3 +66,7 @@ function mudaImagem() {
     }
 }
 
+function voltar() {
+    location.replace('https://aarthx.github.io/');
+}
+

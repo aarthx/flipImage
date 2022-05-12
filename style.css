@@ -97,3 +97,15 @@ body {
 @media (max-width: 600px) {
     body{display: none;}
 }
+
+.links {
+    position: block;
+}
+
+.links button {
+    width: 50px;
+    height: 50px; 
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
